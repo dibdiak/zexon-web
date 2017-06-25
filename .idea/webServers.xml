@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c243ca0a-b943-4897-8c96-41fe05b93f0e" name="Apache on XAMPP" url="http://localhost/zexon/main">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\zexon\main" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
